@@ -1,7 +1,7 @@
 
 # StackApp
 
-StackApp is a react native app which displays questions from official Stack Exchange API.
+StackApp is a react native app which displays questions in each tab from official Stack Exchange API.
  
 ## Features
 
